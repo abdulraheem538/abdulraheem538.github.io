@@ -1,0 +1,42 @@
+body {
+  background: silver;
+  text-align: center;
+}
+h1 {
+  color:darkblue;
+  font-family: impact;
+  font-size: 175px;
+}
+#calc,#back {
+  background-color: teal;
+  width: 500px;
+  height: 120px; 
+  font-size: 60px;
+}/*
+{
+  background-color: teal;
+  width: 500px;
+  height: 120px; 
+  font-size: 60px;
+}*/
+#percent,#number {
+  background-color: teal;
+  width: 800px;
+  height: 220px;
+  margin-bottom: 100px;
+  font-size: 100px;
+}
+#percent::placeholder,#number::placeholder{
+  color:black;
+}
+p {
+  font-size: 100px;
+}/*
+{
+  background-color: teal;
+  margin-bottom:10px;
+  width: 300px;
+}
+{
+  color:black;
+}*/
