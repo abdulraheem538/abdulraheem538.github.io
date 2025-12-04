@@ -1,15 +1,15 @@
 h1 {
     font-family: impact; 
-    color: darkblue;
+    color: #F08B51;
     margin-top: 40px;
     font-size: 60px;
 }
 body {
-    background: BB6653;
+    background: #BB6653;
     text-align: center;
 }
 #percentage,#result  {
-    background-color: teal; 
+    background-color: #FFF8E8; 
     margin-bottom: 50px;
     width: 100px;
     height: 70px;
@@ -30,10 +30,11 @@ body {
     font-size: 30px;
 }
 button {
-    background-color: teal;
+    background-color: #FFF8E8;
     width: 500px;
     height: 120px;
     font-size: 60px;
 }
+
 
 
