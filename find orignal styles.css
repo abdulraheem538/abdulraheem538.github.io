@@ -5,7 +5,7 @@ h1 {
     font-size: 60px;
 }
 body {
-    background: silver;
+    background: BB6653;
     text-align: center;
 }
 #percentage,#result  {
@@ -35,4 +35,5 @@ button {
     height: 120px;
     font-size: 60px;
 }
+
 
