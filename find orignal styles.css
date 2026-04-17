@@ -1,19 +1,20 @@
 h1 {
     font-family: impact; 
-    color: #F08B51;
+    color: darkblue;
     margin-top: 40px;
     font-size: 60px;
 }
 body {
-    background: #BB6653;
+    background: silver;
     text-align: center;
 }
 #percentage,#result  {
-    background-color: #FFF8E8; 
-    margin-bottom: 50px;
-    width: 100px;
-    height: 70px;
-    font-size: 30px;
+  width:800px;
+  height: 220px;
+  margin-bottom: 50px;
+  background-color:teal;
+  font-size: 70px;
+  margin-top: 5px;
 }
 #percentage::placeholder,#result::placeholder  {
     color: black;
@@ -27,14 +28,14 @@ body {
     color: black;
 }*/
 #orignal {
-    font-size: 30px;
-}
-button {
-    background-color: #FFF8E8;
-    width: 500px;
-    height: 120px;
     font-size: 60px;
 }
+button {
+      width: 500px;
+  height: 120px;
+  font-size: 60px;
+  background-color: teal;
+  }
 
 
 
